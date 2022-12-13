@@ -17,4 +17,4 @@
 17. head -3 q1.txt
 18. tail -3 q1.txt
 19. less q1.txt
-20. date
+20. date 
